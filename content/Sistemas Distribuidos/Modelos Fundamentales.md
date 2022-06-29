@@ -1,6 +1,4 @@
 # Modelos Fundamentales
-```toc
-```
 Todas las arquitecturas comparten algunas propiedades fundamentales: 
 Procesos que se comunican por paso de mensajes a través de una red de computadores. 
 - [[Modelos de Interaccion]]: El modelo debe definir y clasificar la comunicación entre elementos del sistema.

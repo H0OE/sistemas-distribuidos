@@ -1,7 +1,7 @@
 # Sistemas Distribuidos
 Resumen de la materia **Sistemas Distribuidos**
 ## Indice
-- [[Distrbuciones Linux]]
+- [[Distribuciones Linux]]
 - [[Sistemas distribuidos]]
 - [[Modelos Fundamentales]]
 - [[TCP-UDP]]

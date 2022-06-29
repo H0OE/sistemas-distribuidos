@@ -1,6 +1,4 @@
 # Modelos de interaccion
-```toc
-```
 Respecto a la interacción, los sistemas distribuidos deben tener en cuenta que
 - Hay limitaciones debidas a la comunicación
 - Es imposible predecir el retraso con el que llega un mensaje

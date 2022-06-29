@@ -1,6 +1,4 @@
 # TCP y UDP
-```toc
-```
 ## TCP
 TCP (Protocolo de Control de Transmisión, por sus siglas en inglés Transmission Control Protocol) es protocolo de red importante que permite que dos anfitriones (hosts) se conecten e intercambien flujos de datos. TCP garantiza la entrega de datos y paquetes (en-US) en el mismo orden en que se enviaron.
 

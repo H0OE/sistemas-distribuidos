@@ -1,6 +1,4 @@
 # Raid
-```toc
-```
 ## HDD vs SDD
 ### HDD
 Los discos duros, también conocidos como HDD, son un componente informático que sirve para almacenar de forma permanente tus datos. Esto quiere decir, que los datos no se borran cuando se apaga la unidad como pasa en los almacenados por la memoria RAM. La primera empresa en comercializarlos fue IBM en 1956. 

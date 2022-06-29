@@ -1,6 +1,4 @@
 # Modelos de Seguridad
-```toc
-```
 La seguridad en un sistema distribuido se basa en la seguridad de los procesos y canales utilizados
 - Entendida como seguridad de objetos
 - Almacenados e invocados por los procesos

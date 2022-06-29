@@ -1,6 +1,4 @@
 # Arquitecturas
-```toc
-```
 ## Modelos Arquitectónicos En Sistemas Distribuidos 
 Un modelo arquitectónico puede ser definido como un prototipo o representación de la estructura de un sistema, construido con el fin de estudiar distintos aspectos en torno al mismo, como pueden ser el diseño o la eficiencia. 
 

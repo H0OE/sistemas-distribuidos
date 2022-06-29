@@ -1,6 +1,4 @@
 # Modelo de Fallos
-```toc
-```
 ## Tipos de fallo según entidad
 - Fallos de proceso
 - Fallos de comunicación

@@ -1,7 +1,4 @@
 # Sistemas Distribuidos
-```toc
-
-```
 ## Que es
 **Conjunto de equipos independientes que actúan de forma transparente como un único equipo.**
 
