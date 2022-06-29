@@ -10,9 +10,9 @@ Ver todas las notas de
 
 ## Indice
 - [Distribuciones Linux](SistemasDistribuidos/DistribucionesLinux.md)
-- [Que es](Quees.md)
-- [ModelosFundamentales](ModelosFundamentales.md)
-- [TCP-UDP](TCP-UDP.md)
-- [Raids](Raids.md)
-- [VPN](VPN.md)
-- [Arquitecturas](Aruitecturas.md)
+- [Que es](SistemasDistribuidos/Quees.md)
+- [ModelosFundamentales](SistemasDistribuidos/ModelosFundamentales.md)
+- [TCP-UDP](SistemasDistribuidos/TCP-UDP.md)
+- [Raids](SistemasDistribuidos/Raids.md)
+- [VPN](SistemasDistribuidos/VPN.md)
+- [Arquitecturas](SistemasDistribuidos/Aruitecturas.md)
