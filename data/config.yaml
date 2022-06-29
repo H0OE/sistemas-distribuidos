@@ -9,6 +9,8 @@ enableContextualBacklinks: true
 enableRecentNotes: false
 description:
   Resumen de la materia de sistemas distribuidos
+linkgithubaction: 
+  "/sistemas-distribuidos"
 page_title:
   "🪴 Sistemas Distribuidos"
 links:
