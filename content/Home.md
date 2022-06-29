@@ -1,9 +1,9 @@
 # Sistemas Distribuidos
 Resumen de la materia **Sistemas Distribuidos**
 ## Indice
-- [[Distribuciones Linux]]
-- [[Que es]]
-- [[Modelos Fundamentales]]
+- [[DistribucionesLinux]]
+- [[Quees]]
+- [[ModelosFundamentales]]
 - [[TCP-UDP]]
 - [[Raids]]
 - [[VPN]]
