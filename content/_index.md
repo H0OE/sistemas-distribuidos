@@ -9,7 +9,7 @@ Ver todas las notas de
 
 
 ## Indice
-- [[Distrbuciones Linux]]
+- [[Sistemas distribuidos/DIStrbuciones Linux]]
 - [[Sistemas distribuidos]]
 - [[Modelos Fundamentales]]
 - [[TCP-UDP]]
