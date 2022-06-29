@@ -1,7 +1,5 @@
 ---
 title:  💻 Distribucion de Linux
-banner: "![[distlinux.jpg]]"
-banner_icon: 💻
 ---
 
 Una distribución es un conjunto de programas GNU / Linux debidamente precompilados y configurados para funcionar juntos. Adicionalmente, la mayoría de distribuciones incluyen otros componentes que aportan valor al conjunto. Una distribución es una de las formas en que las empresas pueden ganar dinero con software libre. 
@@ -16,7 +14,7 @@ Entre las cosas que se pueden esperar de una distribución moderna se cuentan:
 	• Manuales de instalación y uso y documentación adicional sobre los programas. 
 	• Un sistema de seguimiento de errores (bugs) y fallos de seguridad que proporcione al usuario versiones corregidas de los programas lo más rápido posible cuando se detecte un fallo.
 
-![Caracteristicas](Examen1/images/distlinuxcarac.png)
+![Caracteristicas](/content/Examen1/images/distlinuxcarac.png)
 
 ## Ramas diferentes
 - Basadas en Redhat: Sistema rpm (RedHat, Madrake, SuSE) 
