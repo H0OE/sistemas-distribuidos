@@ -1,5 +1,6 @@
 ---
-title: 🪴 Transacciones
+title: 💸 Transacciones
+banner_icon: 💸
 ---
 
 Una transacción es la ejecución consistente y confiable de un conjunto de operaciones agrupadas como una unidad que acceden a una base de datos compartida
@@ -21,7 +22,7 @@ En algunas situaciones, el cliente necesita que una secuencia de solicitudes al 
 
 - Libres de interferencia por operaciones de otros clientes
 - Todas las operaciones se deben completar con éxito o no tener ningún efecto si el servidor falla.
-
+![Caracteristicas](/sistemas-distribuidos/Examen2/images/tra.jpg)
 ### Características
 - El manejo de transacciones puede venir como parte del middleware que proporciona la especificación para un servicio de transacciones sobre objetos.
 - Una transacción aplica a datos recuperables, puede estar formada por operaciones simples o compuestas y su intención es que sea atómica.
@@ -34,7 +35,7 @@ En algunas situaciones, el cliente necesita que una secuencia de solicitudes al 
 2. Consistencia **consistency**
 3. Aislamiento **isolation**
 4. Durabilidad **durability**
-
+![Caracteristicas](/sistemas-distribuidos/Examen2/images/acid.jpg)
 ### Atomicidad
 Aseguran que todas las operaciones dentro de la secuencia de trabajo se completen satisfactoriamente. Si no es así, la transacción se abandona en el punto del error y las operaciones previas retroceden a su estado inicial.
 **TODO O NADA**
@@ -49,6 +50,7 @@ Permiten que las operaciones sean aisladas y transparentes unas de otras. **Sin 
 Una vez que una transacción se completa correctamente, sus efectos no se pueden modificar sin ejecutar una transacción de compensación. Los cambios realizados por una transacción correcta sobreviven a posteriores anomalías del sistema.
 
 ## Tipos
+![Caracteristicas](/sistemas-distribuidos/Examen2/images/tras.jpg)
 ### Planas
 Estas transacciones tienen un punto de partida simple **Begin** y **End**
 
@@ -60,7 +62,7 @@ Estas transacciones tienen un punto de partida simple **Begin** y **End**
 - Debe empezar después que su padre y debe terminar antes que él.
 - El commit de una transacción padre está condicionada al commit de sus transacciones hijas
 - Si alguna transacción hija aborta (rollback), la transacción padre también será abortada (rollback).
-### Bitácora
+## Bitácora
 - Es un archivo que permite deshacer las operaciones realizadas sobre una o varias bases de datos en caso de que falle la transacción.
 - Esto se hace con el fin de mantener la integridad de la información y que la transacción sea atómica
 

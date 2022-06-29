@@ -1,6 +1,7 @@
 ---
 title: 🪴 Teorema CAP
 ---
+![Caracteristicas](/sistemas-distribuidos/Examen2/images/cap.png)
 El Teorema CAP indica que los sistema distribuido de almacenamiento de datos pueden llegar a ser vulnerables a fallos por conectividad en la red, es por esto que indica que estos sistemas solo pueden llegar a tener dos de los tres siguientes atributos:
 -   Consistencia: Este atributo quiere decir que sin importar el lugar o la instancia del servicio que se esté usando, este siempre tiene que ser el mismo, por ejemplo las bases de datos SQL quieren lograr esto por lo que existe diferentes métodos y restricciones para lograrlo, en MYSQL existen las transacciones que garantiza esto y también el comando LOCK TABLE para evitar que otro usuario lea esta base de datos mientras otro la escribe, con el fin de evitar lecturas sucias.
 -   Disponibilidad: Esto quiere decir que la respuesta será válida y se deberá dar en un tiempo razonable, es decir que no tarde más de lo debido. Esto es importante si lo que se quiere es obtener los datos de manera rápida y garantizar que se obtendrán como es el caso de las bases de datos SQL.
@@ -16,3 +17,5 @@ Ejemplos:
 - AP: SimpleDB, CouchDB, Cassandra, Riak, Dynamo, [Voldemort](https://www.project-voldemort.com/voldemort/)
 
 - CP: MongoDB, Terrastore, Scalaris, Berkeley DB, MemcacheDB.
+
+![Caracteristicas](/sistemas-distribuidos/Examen2/images/cap2.png)
