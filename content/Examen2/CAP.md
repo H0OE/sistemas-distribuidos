@@ -1,5 +1,5 @@
 ---
-title: 🪴 "Teorema CAP"
+title: 🪴 Teorema CAP
 ---
 El Teorema CAP indica que los sistema distribuido de almacenamiento de datos pueden llegar a ser vulnerables a fallos por conectividad en la red, es por esto que indica que estos sistemas solo pueden llegar a tener dos de los tres siguientes atributos:
 -   Consistencia: Este atributo quiere decir que sin importar el lugar o la instancia del servicio que se esté usando, este siempre tiene que ser el mismo, por ejemplo las bases de datos SQL quieren lograr esto por lo que existe diferentes métodos y restricciones para lograrlo, en MYSQL existen las transacciones que garantiza esto y también el comando LOCK TABLE para evitar que otro usuario lea esta base de datos mientras otro la escribe, con el fin de evitar lecturas sucias.
