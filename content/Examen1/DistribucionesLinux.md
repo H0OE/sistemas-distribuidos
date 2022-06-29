@@ -15,13 +15,11 @@ Entre las cosas que se pueden esperar de una distribución moderna se cuentan:
 	• Un sistema de seguimiento de errores (bugs) y fallos de seguridad que proporcione al usuario versiones corregidas de los programas lo más rápido posible cuando se detecte un fallo.
 
 ![Caracteristicas](/sistemas-distribuidos/Examen1/images/distlinuxcarac.png)
-![Caracteristicas](/Examen1/images/distlinuxcarac.png)
-![Caracteristicas](/Examen1/images/distlinuxcarac.png)
-
 ## Ramas diferentes
 - Basadas en Redhat: Sistema rpm (RedHat, Madrake, SuSE) 
 - Basadas en Debian: Sistema de (Debian)
 
+![Caracteristicas](/sistemas-distribuidos/Examen1/images/debvred.jpg)
 ### Redhat
 Es la distribución más usada en el mundo; es fácil de instalar y de usar. Su gestor de paquetes RPM se ha convertido en un estándar en el mundo GNU/Linux. Incluye multitud de herramientas gráficas.
 
@@ -34,6 +32,7 @@ Es la que mayor cantidad de software contiene. Realizada enteramente por volunta
 - unstable (Sid): Distribución de desarrollo de Debian.
 
 ## Por que Debian
+![Caracteristicas](/sistemas-distribuidos/Examen1/images/porquedeb.jpg)
 ### Múltiples arquitecturas y kernels 
 Actualmente Debian soporta un impresionante número de arquitecturas CPU: alpha, amd64, armel, hppa, i386, ia64, mips, mipsel, powerpc, s390, y sparc. También corre con los kernels GNU Hurd y FreeBSD además de Linux, y con la utilidad debootstrap es difícil que encuentre un dispositivo que no pueda correr Debian.
 

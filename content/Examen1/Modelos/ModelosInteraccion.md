@@ -1,4 +1,8 @@
-# Modelos de interaccion
+---
+title:  🔷 Modelos de interaccion
+banner_icon: 🔷
+---
+![Caracteristicas](/sistemas-distribuidos/Examen1/images/modelint1.png)
 Respecto a la interacción, los sistemas distribuidos deben tener en cuenta que
 - Hay limitaciones debidas a la comunicación
 - Es imposible predecir el retraso con el que llega un mensaje
@@ -9,6 +13,7 @@ Respecto a la interacción, los sistemas distribuidos deben tener en cuenta que
 Definición de los pasos que hay que llevar a cabo por cada uno de los procesos del sistema, incluyendo los mensajes de transmisión entre ellos.
 
 ## Prestaciones del canal de comunicación
+![Caracteristicas](/sistemas-distribuidos/Examen1/images/com1.png)
 ### Latencia
 - Retardo entre el envío de un mensaje y su recepción
 - Ancho de banda
@@ -17,9 +22,13 @@ Definición de los pasos que hay que llevar a cabo por cada uno de los procesos 
 
 ## Protocolos de Enrutamiento
 - RIP: Es un protocolo de enrutamiento que se basa en el número de saltos para decidir cuál es la mejor ruta hacia una red de destino.
+![Caracteristicas](/sistemas-distribuidos/Examen1/images/rip.jpg)
 - OSPF: Es un protocolo de enrutamiento cuya métrica es el costo. Aquella ruta que posea el menor costo será la ideal y la que será seleccionada como mejor camino hacia una red de destino.
+![Caracteristicas](/sistemas-distribuidos/Examen1/images/ospf.png)
 - BGP: BGP significa Border Gateway Protocol y se utiliza para permitir la comunicación entre los routers de borde pertenecientes a sistemas autónomos diferentes. BGP es un protocolo de gran importancia para las empresas Telco y para los ISPs.
-- EIGRP: Fue desarrollado por la empresa Cisco Systems y utiliza una métrica compuesta para decidir la mejor ruta hacia una red de destino. Puedes obtener más detalles de su configuración y funcionamiento en nuestro Curso gratuito de Fundamentos de EIGRP que encontrarás en nuestra plataforma de Telecapp Academy.
+![Caracteristicas](/sistemas-distribuidos/Examen1/images/bgp.webp)
+- EIGRP: Fue desarrollado por la empresa Cisco Systems y usa una métrica compuesta para decidir la mejor ruta hacia una red de destino. Puedes obtener más detalles de su configuración y funcionamiento en nuestro Curso gratuito de Fundamentos de EIGRP que encontrarás en nuestra plataforma de Telecapp Academy.
+![Caracteristicas](/sistemas-distribuidos/Examen1/images/eigrp.png)
 
 ## Relojes y eventos de tiempo
 Cada computador tiene su propio reloj interno (reloj local)
@@ -31,9 +40,10 @@ Cada computador tiene su propio reloj interno (reloj local)
 - Mecanismos de ordenación de eventos
 
 ### Dos tipos de modelo de interacción
-- Sincrono
-- Asincrono
+- Síncrono
+- Asíncrono
 
+![Caracteristicas](/sistemas-distribuidos/Examen1/images/syncasyn.png)
 En la comunicación sincrónica, los datos se transfieren en forma de tramas, mientras que, en la asincrónica, los datos se envían de un byte en un byte. La transmisión sincrónica necesita una señal de reloj entre el emisor y el receptor para informar al segundo sobre la llegada del nuevo byte o mensaje.
 
 #### Modelos Sincrónicos
