@@ -16,12 +16,13 @@ Resumen de la materia **Sistemas Distribuidos**
 - [Teorema CAP](Examen2/CAP.md)
 - [VPN IPsec](Examen2/VPNIPsec.md)
 - [DNS](Examen2/DNS.md)
-- [Exclusion](Examen2/Exclusion.md)
+- [Exclusión](Examen2/Exclusion.md)
 - [Hipervisores](Examen2/Hipervisores.md)
 - [LVM](Examen2/LVM.md)
 - [Transacciones](Examen2/Tansacciones.md)
 - [Relojes](Examen2/Relojes.md)
 
-- [Comunicacion](Examen3/Comunicacion.md)
-- [Replicacion](Examen3/Replicacion.md)
+- [Comunicación](Examen3/Comunicacion.md)
+- [Replicación](Examen3/Replicacion.md)
+
 
