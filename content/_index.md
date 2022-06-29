@@ -25,4 +25,13 @@ Resumen de la materia **Sistemas Distribuidos**
 - [Comunicación](Examen3/Comunicacion.md)
 - [Replicación](Examen3/Replicacion.md)
 
-
+## Prácticas
+- [SSH](practicas/ssh.md)
+- [Alias](practicas/alias.md)
+- [Discos duros](practicas/discosduros.md)
+- [LVM](practicas/lvm.md)
+- [Apache](practicas/apache.md)
+- [Samba](practicas/samba.md)
+- [Nginx](practicas/nginx.md)
+- [Squid](practicas/squid.md)
+- [DNS](practicas/dns.md)
