@@ -95,10 +95,17 @@ Cuando cualquier proceso desea acceder a las variables compartidas en el monitor
 ### Algoritmo de Dekker
 Es un algoritmo de programación concurrente para exclusión mutua, que permite a dos procesos o hilos de ejecución compartir un recurso sin conflictos si ambos procesos intentan acceder a la sección crítica simultáneamente, el algoritmo elige un proceso según una variable turno. Si el otro proceso está ejecutando en su sección crítica, deberá esperar su finalización.
 
+Existen cinco versiones del algoritmo Dekker, teniendo ciertos fallos los primeros cuatro. **La versión 5 es la que trabaja más eficientemente, siendo una combinación de la 1 y la 4.**
+
+1. Versión 1: Alternancia estricta. Garantiza la exclusión mutua, pero su desventaja es que acopla los procesos fuertemente, esto significa que los procesos lentos atrasan a los procesos rápidos.
+2. Versión 2: Problema interbloqueo. No existe la alternancia, aunque ambos procesos caen a un mismo estado y nunca salen de ahí.
+3. Versión 3: Colisión región crítica no garantiza la exclusión mutua. Este algoritmo no evita que dos procesos puedan acceder al mismo tiempo a la región crítica.
+4. Versión 4: Postergación indefinida. Aunque los procesos no están en interbloqueo, un proceso o varios se quedan esperando a que suceda un evento que tal vez nunca suceda.
+
 ### Algoritmo Petterson
 Algoritmo de programación concurrente para exclusión mutua, que permite a dos o más procesos o hilos de ejecución compartir un recurso sin conflictos, utilizando solo memoria compartida para la comunicación 
 Cada proceso tiene un turno para entrar en la sección crítica, di desea entrar debe activar su señal y puede que tenga que esperar a que llegue su turno
-
+- Version simplificada del algoritmo de Dekker
 
 
 

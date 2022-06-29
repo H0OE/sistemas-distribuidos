@@ -23,3 +23,4 @@ Resumen de la materia **Sistemas Distribuidos**
 - [Hipervisores](Examen2/Hipervisores.md)
 - [LVM](Examen2/LVM.md)
 - [Transacciones](Examen2/Tansacciones.md)
+- [Relojes](Examen2/Relojes.md)
