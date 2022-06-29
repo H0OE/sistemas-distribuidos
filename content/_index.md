@@ -10,7 +10,7 @@ Ver todas las notas de
 
 ## Indice
 - [[Distribuciones Linux]]
-- [[Sistemas distribuidos]]
+- [[Que es]]
 - [[Modelos Fundamentales]]
 - [[TCP-UDP]]
 - [[Raids]]

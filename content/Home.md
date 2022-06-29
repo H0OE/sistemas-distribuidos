@@ -2,7 +2,7 @@
 Resumen de la materia **Sistemas Distribuidos**
 ## Indice
 - [[Distribuciones Linux]]
-- [[Sistemas distribuidos]]
+- [[Que es]]
 - [[Modelos Fundamentales]]
 - [[TCP-UDP]]
 - [[Raids]]
