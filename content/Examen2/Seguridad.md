@@ -46,3 +46,6 @@ TLS se traduce a Transport Layer Security o en español Seguridad de la Capa de
 Es un algoritmo matemático que transforma cualquier bloque arbitrario de datos en una nueva serie de caracteres con una longitud fija.
 -   Independientemente de la longitud de los datos de entrada, el valor hash de salida tendrá siempre la misma longitud.
 -   no existen dos entradas que produzcan el mismo hash de salida
+- Se utilizan las funciones criptográficas hash para detectar malware
+- Las funciones criptográficas hash se utilizan también para asegurar la “integridad de los mensajes
+- gestión de los identificadores y contraseñas
