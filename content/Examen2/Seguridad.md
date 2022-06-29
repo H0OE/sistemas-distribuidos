@@ -1,7 +1,6 @@
 ---
-title: 🪴 Sistemas Distribuidos
+title: 🪴 Seguridad
 ---
-# Seguridad
 ## DES 56 bit
 DES es el nombre del documento FIPS (Federal Information Processing Standard), es un algoritmo de cifrado por bloques de 64 bits de tamaño. Emplea una clave de 56 bits durante la ejecución.
 - Cuando se utiliza en comunicaciones ambos participantes deben conocer la clave secreta 
