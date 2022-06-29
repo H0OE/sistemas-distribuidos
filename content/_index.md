@@ -9,10 +9,10 @@ Ver todas las notas de
 
 
 ## Indice
-- [[Distrbuciones Linux]]
-- [[Sistemas distribuidos]]
-- [[Modelos Fundamentales]]
-- [[TCP-UDP]]
-- [[Raids]]
-- [[VPN]]
-- [[Aruitecturas]]
+- [Distribuciones Linux](/Sistemas Distribuidos/Didtribuciones Linux)
+- [Sistemas distribuidos](/Sistemas Distribuidos/Sistemas distribuidos)
+- [Modelos Fundamentales](/Sistemas Distribuidos/Modelos Fundamentales)
+- [TCP-UDP](/Sistemas Distribuidos/TCP-UDP)
+- [Raids](/Sistemas Distribuidos/Raids)
+- [VPN](/Sistemas Distribuidos/VPN)
+- [Aruitecturas](/Sistemas Distribuidos/Arquitecturas)
