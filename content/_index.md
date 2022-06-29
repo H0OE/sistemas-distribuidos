@@ -4,15 +4,12 @@ title: 🪴 Sistemas Distribuidos
 
 Resumen de la materia **Sistemas Distribuidos**
 
-Ver todas las notas de 
-- [[SistemasDistribuidos]]
-
-
 ## Indice
-- [Distribuciones Linux](SistemasDistribuidos/DistribucionesLinux.md)
-- [Que es](SistemasDistribuidos/Quees.md)
-- [ModelosFundamentales](SistemasDistribuidos/ModelosFundamentales.md)
-- [TCP-UDP](SistemasDistribuidos/TCP-UDP.md)
-- [Raids](SistemasDistribuidos/Raids.md)
-- [VPN](SistemasDistribuidos/VPN.md)
-- [Arquitecturas](SistemasDistribuidos/Aruitecturas.md)
+- [Distribuciones Linux](Examen1/DistribucionesLinux.md)
+	- [Caracteristica](Examen1/DistribucionesLinux#Caracteristicas.md)
+- [Que es](Examen1/Quees.md)
+- [ModelosFundamentales](Examen1/ModelosFundamentales.md)
+- [TCP-UDP](Examen1/TCP-UDP.md)
+- [Raids](Examen1/Raids.md)
+- [VPN](Examen1/VPN.md)
+- [Arquitecturas](Examen1/Aruitecturas.md)
