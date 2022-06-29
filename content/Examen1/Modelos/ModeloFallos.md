@@ -1,8 +1,11 @@
-# Modelo de Fallos
+---
+title:  💻 Modelo de Fallos
+---
 ## Tipos de fallo según entidad
 - Fallos de proceso
 - Fallos de comunicación
 ## Tipo de fallo según el problema
+![Caracteristicas](/sistemas-distribuidos/Examen1/images/fails.png)
 - Fallos por omisión **Afecta al canal**
 	-  No se consigue realizar una acción que se debería poder hacer
 	-  Un mensaje insertado en un búfer de mensajes salientes nunca llega al búfer de mensajes entrantes del destino
