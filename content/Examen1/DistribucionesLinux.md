@@ -14,7 +14,7 @@ Entre las cosas que se pueden esperar de una distribución moderna se cuentan:
 	• Manuales de instalación y uso y documentación adicional sobre los programas. 
 	• Un sistema de seguimiento de errores (bugs) y fallos de seguridad que proporcione al usuario versiones corregidas de los programas lo más rápido posible cuando se detecte un fallo.
 
-![Caracteristicas](/Examen1/images/distlinuxcarac.png)
+![Caracteristicas](/sistemas-distribuidos/Examen1/images/distlinuxcarac.png)
 
 ## Ramas diferentes
 - Basadas en Redhat: Sistema rpm (RedHat, Madrake, SuSE) 
