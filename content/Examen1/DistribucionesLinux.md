@@ -1,4 +1,9 @@
-# Distribucion de Linux
+---
+title:  💻 Distribucion de Linux
+banner: "![[distlinux.jpg]]"
+banner_icon: 💻
+---
+
 Una distribución es un conjunto de programas GNU / Linux debidamente precompilados y configurados para funcionar juntos. Adicionalmente, la mayoría de distribuciones incluyen otros componentes que aportan valor al conjunto. Una distribución es una de las formas en que las empresas pueden ganar dinero con software libre. 
 
 Existen organizaciones comerciales que se dedican a empaquetar juntos los programas, incluirlos en algún medio, añadir un manual de instrucciones y proporcionar soporte técnico. La mayoría de fabricantes de distribuciones reinvierten una parte de sus beneficios en iniciativas que ayuden a la comunidad de software libre. También existen distribuciones realizadas por voluntarios y que no tienen ánimo de lucro.
