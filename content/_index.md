@@ -22,4 +22,4 @@ Resumen de la materia **Sistemas Distribuidos**
 - [Exclusion](Examen2/Exclusion.md)
 - [Hipervisores](Examen2/Hipervisores.md)
 - [LVM](Examen2/LVM.md)
-- [Transacciones](Examen2/Transacciones.md)
+- [Transacciones](Examen2/Tansacciones.md)
