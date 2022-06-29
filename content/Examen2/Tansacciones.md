@@ -68,3 +68,9 @@ Estas transacciones tienen un punto de partida simple **Begin** y **End**
 1. Autenticación: asegura la identidad del servidor participante en la comunicación.
 2. Confidencialidad: asegura que la información transmitida en la comunicación entre el cliente y el servidor sólo sea legible por estas dos entidades.
 3. Integridad: asegura que la información transmitida en la comunicación entre el cliente y el servidor no haya sido alterada en su viaje por la red
+
+SSL – SECURE SOCKET LAYER
+SET – SECURE ELECTRONIC TRANSACTION 
+	Es un sistema que garantiza la seguridad e integridad 
+     de las transacciones electrónicas realizadas en un escenario. 
+     SET no es un sistema que permita el pago, pero es un protocolo de seguridad aplicado a esos pagos. Utiliza diferentes técnicas de encriptación y hash para asegurar los pagos a través de Internet a través de tarjetas de crédito. Este protocolo fue apoyado en el desarrollo por las principales organizaciones como Visa, Mastercard.
