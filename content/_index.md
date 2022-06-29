@@ -3,7 +3,7 @@ title: 🪴 Sistemas Distribuidos
 ---
 
 Resumen de la materia **Sistemas Distribuidos**
-
+![Caracteristicas](/sistemas-distribuidos/Examen1/images/home.png)
 ## Índice
 - [Distribuciones Linux](Examen1/DistribucionesLinux.md)
 - [Que es](Examen1/Quees.md)
@@ -22,4 +22,6 @@ Resumen de la materia **Sistemas Distribuidos**
 - [Transacciones](Examen2/Tansacciones.md)
 - [Relojes](Examen2/Relojes.md)
 
-![Caracteristicas](/sistemas-distribuidos/Examen1/images/home.png)
+- [Comunicacion](Examen3/Comunicacion.md)
+- [Replicacion](Examen3/Replicacion.md)
+
