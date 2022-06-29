@@ -21,3 +21,5 @@ Resumen de la materia **Sistemas Distribuidos**
 - [LVM](Examen2/LVM.md)
 - [Transacciones](Examen2/Tansacciones.md)
 - [Relojes](Examen2/Relojes.md)
+
+![Caracteristicas](/sistemas-distribuidos/Examen1/images/home.png)

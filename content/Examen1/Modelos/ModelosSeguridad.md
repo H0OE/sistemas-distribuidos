@@ -1,4 +1,7 @@
-# Modelos de Seguridad
+---
+title:  🔑 Modelos de Seguridad
+banner_icon: 🔑
+---
 La seguridad en un sistema distribuido se basa en la seguridad de los procesos y canales utilizados
 - Entendida como seguridad de objetos
 - Almacenados e invocados por los procesos
@@ -8,7 +11,9 @@ La seguridad en un sistema distribuido se basa en la seguridad de los procesos y
 ## Principal
 Autoridad con la que se ordena cada invocación de objetos o sus resultados
 - Se contrasta con los derechos de acceso de dicho objeto
+![Caracteristicas](/sistemas-distribuidos/Examen1/images/segu1.jpg)
 ## Modelo de enemigo
+![Caracteristicas](/sistemas-distribuidos/Examen1/images/enemy2.jpg)
 ### Entidad
 Cualquier máquina conectada( de forma autorizada o no) a la red 
 ### Enemigo 

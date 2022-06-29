@@ -1,5 +1,6 @@
 ---
-title:  💻 Modelo de Fallos
+title:  💢 Modelo de Fallos
+banner_icon: 💢
 ---
 ## Tipos de fallo según entidad
 - Fallos de proceso
@@ -35,6 +36,8 @@ title:  💻 Modelo de Fallos
 	- Fallo por omisión de recepción  **Afecta al proceso**
 		- El mensaje se coloca en el buffer de recepción pero el proceso no lo recibe
 
+![Caracteristicas](/sistemas-distribuidos/Examen1/images/enemy.png)
+
 ## Fallos de temporización
 - Sistemas síncronos
 	- Reloj Afecta al proceso
@@ -55,3 +58,5 @@ Se debe cumplir la:
 		- Protocolo que adjunta números de secuencia a los mensajes
 		- Canales de comunicacion seguros
 	- No hay fallos bizantino
+
+![Caracteristicas](/sistemas-distribuidos/Examen1/images/memefails.png)
