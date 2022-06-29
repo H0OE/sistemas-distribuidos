@@ -5,7 +5,7 @@ title: 🪴 Sistemas Distribuidos
 Resumen de la materia **Sistemas Distribuidos**
 
 Ver todas las notas de 
-- [Sistemas Distribuidos](Sistemas Distribuidos)
+- [[Sistemas Distribuidos]]
 
 
 ## Indice
