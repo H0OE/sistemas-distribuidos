@@ -16,6 +16,7 @@ Entre las cosas que se pueden esperar de una distribución moderna se cuentan:
 
 ![Caracteristicas](/sistemas-distribuidos/Examen1/images/distlinuxcarac.png)
 ![Caracteristicas](/Examen1/images/distlinuxcarac.png)
+![Caracteristicas](/Examen1/images/distlinuxcarac.png)
 
 ## Ramas diferentes
 - Basadas en Redhat: Sistema rpm (RedHat, Madrake, SuSE) 
