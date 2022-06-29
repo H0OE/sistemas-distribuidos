@@ -6,6 +6,7 @@ Resumen de la materia **Sistemas Distribuidos**
 
 ## Índice
 - [Distribuciones Linux](Examen1/DistribucionesLinux.md)
+	- [Característica](/Examen1/DistribucionesLinux.md#debian)
 	- [Característica](Examen1/DistribucionesLinux.md#debian)
 - [Que es](Examen1/Quees.md)
 - [Modelos Fundamentales](Examen1/ModelosFundamentales.md)
