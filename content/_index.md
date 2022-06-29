@@ -7,8 +7,8 @@ Resumen de la materia **Sistemas Distribuidos**
 ## Índice
 - [Distribuciones Linux](Examen1/DistribucionesLinux.md)
 	- [Característica](https://h0oe.github.io/sistemas-distribuidos/Examen1/DistribucionesLinux/#caracteristicas)
-	- [Característica](Examen1/DistribucionesLinux.md/#caracteristicas)
-	- [Característica](/Examen1/DistribucionesLinux.md/#caracteristicas)
+	- [Debian](https://h0oe.github.io/sistemas-distribuidos/Examen1/DistribucionesLinux/#debian)
+	- [Característica](https://h0oe.github.io/sistemas-distribuidos/Examen1/DistribucionesLinux/#distribuciones-destacadas)
 - [Que es](Examen1/Quees.md)
 - [Modelos Fundamentales](Examen1/ModelosFundamentales.md)
 - [TCP-UDP](Examen1/TCP-UDP.md)
